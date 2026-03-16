@@ -83,3 +83,6 @@ Clone the repository and install the required dependencies:
 git clone [https://github.com/anirbansen2709/Build-and-Train-an-LLM-with-JAX.git](https://github.com/anirbansen2709/Build-and-Train-an-LLM-with-JAX.git)
 cd Build-and-Train-an-LLM-with-JAX
 pip install jax jaxlib flax optax grain orbax-checkpoint
+
+<img width="359" height="423" alt="Screenshot 2026-03-16 at 6 28 12 PM" src="https://github.com/user-attachments/assets/aba5341e-8920-4352-a6d9-57d616b9ed1c" />
+
