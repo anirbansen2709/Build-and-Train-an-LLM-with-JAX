@@ -32,8 +32,6 @@ perexample_grads = jit(
 JAX Ecosystem
 <img width="886" height="449" alt="Screenshot 2026-03-11 at 10 37 23 PM" src="https://github.com/user-attachments/assets/e1d3cdb6-5d36-48b3-a6f2-984f86706f3c" />
 
-# Build and Train an LLM with JAX
-
 This repository contains a complete implementation of a **MiniGPT-style Large Language Model (LLM)** built from scratch using the **JAX** ecosystem. This project follows the modern "Google-stack" for machine learning, focusing on high-performance functional programming and scalable model design.
 
 ## 🚀 Project Overview
